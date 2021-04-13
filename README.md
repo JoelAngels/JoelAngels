@@ -7,7 +7,7 @@ I am really passionate about design and looking for opportunities where Companie
 * ⚛ React
 * 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS
 * ⚙ JavaScript / Es6
-* 🎨 UI/ Design
+* 🎨 UI / Design
 
 
 - 🔭 I’m currently working on Job Applications 
