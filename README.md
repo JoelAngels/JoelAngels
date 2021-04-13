@@ -1,4 +1,4 @@
-### Hi there 👋, Joel Angle
+### Hi there 👋, Joel Angel
 #### Frontend Developer | ReactJS Developer
 ![Frontend Developer | ReactJS Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHds9NV8ER19A/profile-displaybackgroundimage-shrink_200_800/0/1616748064329?e=1623888000&v=beta&t=SsgzouYdGt2KUvESUaoQdLtBGyrCYutfQtgVDT_GKmA)
 
