@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Joel Angel
 I am really passionate about design and looking for opportunities where Companies can fully use my skills for the success of the organization.
 
-##Skills
+## Skills
 * ⚛ React
 *💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS
 ⚙ JavaScript / ES6
