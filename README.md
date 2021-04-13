@@ -1,4 +1,4 @@
-### Hi there 👋, Joel Angel
+### Hi there 👋, I'm Joel Angel
 #### Frontend Developer | ReactJS Developer | Design
 ![Frontend Developer | ReactJS Developer](https://github.com/JoelAngels/JoelAngels/blob/main/LinkedInBanner.png)
 
