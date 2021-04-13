@@ -1,6 +1,6 @@
 ![Frontend Developer | ReactJS Developer | Design](https://github.com/JoelAngels/JoelAngels/blob/main/LinkedInBanner.png)
 
-# Hi there 👋, I'm Joel Angel
+# 👋 I'm Joel Angel
 I am really passionate about design and looking for opportunities where Companies can fully use my skills for the success of the organization.
 
 ## Skills
