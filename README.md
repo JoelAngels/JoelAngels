@@ -5,7 +5,7 @@ I am really passionate about Frontend Development and Design and currently I'm l
 
 ## Skills
 * ⚛ React / Redux
-* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS / Material UI / Adobe Photoshop / 
+* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS / Material UI / Adobe Photoshop 
 * ⚙ JavaScript / Es6
 * 🎨 UI / Design
 
