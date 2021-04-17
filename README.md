@@ -4,8 +4,8 @@
 I am really passionate about Frontend Development and Design and currently I'm looking for opportunities where Companies can fully use my skills for the success of the organization.
 
 ## Skills
-* ⚛ React
-* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS
+* ⚛ React / Redux
+* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS / Material UI / Adobe Photoshop / 
 * ⚙ JavaScript / Es6
 * 🎨 UI / Design
 
