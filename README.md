@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Joel Angel.
 #### Design and Development
-![Design and Development].(https://github.com/JoelAngels/JoelAngels/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png)
+![Design and Development].
+(https://github.com/JoelAngels/JoelAngels/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png)
 
 I am really passionate about Frontend Engineering and Design and currently I'm looking for opportunities where Companies can fully use my skills for the success of the organization.
 
