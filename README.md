@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Joel Angel.
 
-I am really passionate about Frontend Engineering and Design and currently I'm looking for opportunities where Companies can fully use my skills for the success of the organization.
+I am really passionate about Frontend Engineering and Design and currently I'm open for opportunities where Companies can fully use my skills for the success of the organization.
 
 ## Skills
 * ⚛ React / Redux / Next JS / TypeScript / React Native
@@ -12,7 +12,7 @@ I am really passionate about Frontend Engineering and Design and currently I'm l
 * 🎨 UI / Design / Figma 
 
 
-- 🔭 I’m currently working on Job Applications 
+- 🔭 I’m currently working on rire apps🔥,
 - 👯 I’m looking to collaborate on Different Projects 
 
 
