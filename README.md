@@ -6,10 +6,10 @@
 I am really passionate about Frontend Engineering and Design and currently I'm looking for opportunities where Companies can fully use my skills for the success of the organization.
 
 ## Skills
-* ⚛ React / Redux
-* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS / Material UI / Adobe Photoshop 
-* ⚙ JavaScript / Es6
-* 🎨 UI / Design
+* ⚛ React / Redux / Next JS / TypeScript / React Native
+* 💻 HTML / CSS / BOOTSTRAP / SAAS / SCSS / Material UI / Adobe Photoshop / Framer Motion
+* ⚙ JavaScript / Es6 / 
+* 🎨 UI / Design / Figma 
 
 
 - 🔭 I’m currently working on Job Applications 
