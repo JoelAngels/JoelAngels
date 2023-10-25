@@ -5,9 +5,12 @@
     <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏼;+I'm+Joel+Angel!;" 
   </a>
 </h1>
+<div align="center">
+  <img src = "https://github.com/JoelAngels/JoelAngels/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png?raw=true">
+</div>
 
 <h3 align="center">As a determined and focused Frontend Developer / Software Engineer, I offer the work ethic, creative vitality, and technical expertise to drive success in software engineering, design, and development.</h3>
-
+<img align="right" alt = "Coding" width="400" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
@@ -18,8 +21,6 @@
 - 💬 Ask me about **React, Next, TailwindCss**
 
 - 📫 How to reach me **iamjoelangel@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yfYmVaoKhxINyXdrToMTXoGhW-lEk_IT/view](https://drive.google.com/file/d/1yfYmVaoKhxINyXdrToMTXoGhW-lEk_IT/view)
 
 - ⚡ Fun fact **A Swimmer, Basketballer,**
 
