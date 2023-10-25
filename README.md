@@ -1,4 +1,4 @@
-<img align="left" src = "https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelangels&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
 <h1 align = "center">
   <a href = "https://git.io/typing-svg">
