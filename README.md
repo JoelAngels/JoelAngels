@@ -39,6 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelangels&show_icons=true&locale=en" alt="joelangels" /></p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joelangels&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
