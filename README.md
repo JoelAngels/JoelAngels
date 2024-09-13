@@ -15,7 +15,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelangels6&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p> -->
 
 
-- 🌱 I’m currently learning **Go, Flutter,**
+- 🌱 I’m currently learning **Ruby,**
 
 - 👨‍💻 All of my projects are available at [https://joelangel.web.app](https://joelangel.web.app)
 
