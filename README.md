@@ -15,7 +15,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelangels6&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p> -->
 
 
-- 🌱 I’m currently learning **Ruby,**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://joelangel.web.app](https://joelangel.web.app)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **iamjoelangel@gmail.com**
 
-- ⚡ Fun fact **A Swimmer, Basketballer,**
+- ⚡ Fun fact When I’m not designing, you can find me **A Swimming or playing some Basketball,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
