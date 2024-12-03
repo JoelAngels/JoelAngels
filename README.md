@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://joelangel.web.app](https://joelangel.web.app)
+- 👨‍💻 All of my projects are available at [[https://joelmwendwa.vercel.app](https://joelmwendwa.vercel.app/)]
 
 - 💬 Ask me about **React, Next, TailwindCss**
 
