@@ -15,7 +15,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelangels6&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p> -->
 
 
-- 🌱 Currentlt Building Mediakits.io - Eapen.io**
+- 🌱 Currently Building <a href="https://mediakits.io" target="blank">Mediakits.io</a> and  <a href="https://eapen.io" target="blank">Eapen.io</a>
 
 - 👨‍💻 All of my projects are available at https://joelangel.vercel.app
 
