@@ -15,9 +15,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelangels6&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p> -->
 
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 Currentlt Building Mediakits.io - Eapen.io**
 
-- 👨‍💻 All of my projects are available at https://joelmwendwa.vercel.app
+- 👨‍💻 All of my projects are available at https://joelangel.vercel.app
 
 - 💬 Ask me about **React, Next, TailwindCss**
 
